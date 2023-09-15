@@ -1,6 +1,6 @@
 ﻿Console.BackgroundColor = ConsoleColor.Blue;
 Console.Clear();
-Console.ForegroundColor = ConsoleColor.DarkGray;
+Console.ForegroundColor = ConsoleColor.White;
 
 Console.Write("X? ");
 double x = Convert.ToDouble(Console.ReadLine());    
